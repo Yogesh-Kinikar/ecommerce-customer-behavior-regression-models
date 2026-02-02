@@ -202,7 +202,6 @@ Sample predictions from the **Ridge Regression model** on test data:
 │   ├── data_cleaning.ipynb
 │   ├── correlation_analysis.ipynb
 │   ├── regression_models.ipynb
-│   └── evaluation.ipynb
 ├── reports/
 │   └── figures/
 ├── requirements.txt
